@@ -37,6 +37,24 @@
           "Color":"#4845cf",
           "CTAType":"Deeplink",
           "CTAURL":"login"
+        },
+    {
+          "id":2,
+          "Title":"GOLD",
+          "Description":"Old is Gold",
+          "Image":"https://cdn.pixabay.com/photo/2018/08/16/19/56/wedding-rings-3611277_960_720.jpg",
+          "Color":"#e7e76b",
+          "CTAType":"IAB",
+          "CTAURL":"https://pixabay.com/photos/wedding-rings-engagement-rings-3611277/"
+        },
+    {
+          "id":3,
+          "Title":"Dubai",
+          "Description":"Travel",
+          "Image":"https://cdn.pixabay.com/photo/2016/05/27/19/23/dubai-1420494_960_720.jpg",
+          "Color":"#e7e76b",
+          "CTAType":"Browser",
+          "CTAURL":"https://en.wikipedia.org/wiki/Dubai"
         }
     ]
 }
