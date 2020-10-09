@@ -28,9 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "ExternalAPI":[
-    {
-      "Category1":[
+  "ExternalAPI1":[
         {
           "id":1,
           "Title":"NFO",
@@ -40,8 +38,5 @@
           "CTAType":"Deeplink",
           "CTAURL":"login"
         }
-      ]
-    }
-  ]
-  
+    ]
 }
