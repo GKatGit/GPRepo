@@ -27,5 +27,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "ExternalAPI":[
+    {
+      "Category":[
+        {
+          "Card":1,
+          "Title":"NFO",
+          "Description":"New Funds on Offer",
+          "Image":"https://cdn.pixabay.com/photo/2020/08/27/13/24/flamingo-5522050_960_720.jpg",
+          "Color":"#4845cf",
+          "CTAType":"Deeplink",
+          "CTAURL":"login"
+        }
+      ]
+    }
+  ]
+  
 }
